@@ -1,2 +1,1 @@
-# TinDog
-First CSS website
+TinDog Starting Files
